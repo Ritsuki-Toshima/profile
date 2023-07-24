@@ -47,7 +47,7 @@ a:hover {
 }
 
 #big-pancake:hover {
-  transform: scale(5);
+  font-size: larger;
   transition: 10s;
 }
 
