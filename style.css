@@ -46,6 +46,11 @@ a:hover {
   transition: 0.3s;
 }
 
+#big-pancake:hover {
+  transform: scale(5);
+  transition: 10s;
+}
+
 .icon {
   font-size: 50px;
   padding: 20px;
@@ -53,7 +58,6 @@ a:hover {
 }
 
 .icon:hover {
-  transform: scale(1.2);
   opacity: 1;
   transition: 0.3s;
 }
