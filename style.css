@@ -7,11 +7,11 @@
 
 .card {
   background-color: white;
-  width: 500px;
+  width: 100%;
   margin: 30px auto;
   padding: 20px 20px;
   border-radius: 8px;
-  box-shadow: 4px 4px 8px 0.7;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 body h1, h2 {
@@ -20,6 +20,8 @@ body h1, h2 {
   box-shadow: 5px, 5px, 3px, black;
   text-align: center;
 }
+
+
 
 .img-circle {
   border-radius: 50%;
