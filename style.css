@@ -58,6 +58,10 @@ a:hover {
   transition: 0.3s;
 }
 
+ul {
+  margin: 0 auto;
+}
+
 ul > li {
   list-style: none;
   display: inline-block;
